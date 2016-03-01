@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Profitable Steward]]></title>
         <description><![CDATA[The Profitable Steward]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-profitable-steward/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 20:51:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 22:12:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-profitable-steward/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/387386a3-c464-4e5e-a68a-7a839c23f9ec.jpg">]]></description>
+            <link>https://thegrid.ai/the-profitable-steward/78c63c83-3d69-4153-8abe-d6774a88eabc/index.html</link>
+            <guid isPermaLink="false">78c63c83-3d69-4153-8abe-d6774a88eabc</guid>
+            <pubDate>Tue, 01 Mar 2016 22:12:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/37a0901f-bc85-44e3-b539-ea3285f8d383.png">]]></description>
-            <link>undefined6a764f70-9738-490e-a99d-4403fb8ee7a0/index.html</link>
+            <link>https://thegrid.ai/the-profitable-steward/6a764f70-9738-490e-a99d-4403fb8ee7a0/index.html</link>
             <guid isPermaLink="false">6a764f70-9738-490e-a99d-4403fb8ee7a0</guid>
             <pubDate>Tue, 01 Mar 2016 20:51:23 GMT</pubDate>
         </item>
